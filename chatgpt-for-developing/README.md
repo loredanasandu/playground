@@ -1,0 +1,3 @@
+# Using ChatGPT for developing
+
+Jupyter notebooks (with code and notes) written while following the course <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">"ChatGPT Prompt Engineering for Developers"</a> by <a href="https://www.deeplearning.ai/">DeepLearning.AI</a> and <a href="https://openai.com/">OpenAI</a>. Taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
