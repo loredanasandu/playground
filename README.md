@@ -1,4 +1,4 @@
-# python-miscellaneous
+# playground
 Miscellaneous scripts and notebooks made for fun to try stuff out. Some of them are quick tools, most of them are random experiments made out of curiosity.
 
 ## Contents
